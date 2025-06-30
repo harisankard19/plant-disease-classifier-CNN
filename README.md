@@ -1,6 +1,6 @@
 # plant-disease-classifier-CNN
 
-Downloading the plantvillage-dataset from Kaggle is a great way to get hands-on with real image data, especially if you're learning computer vision or working on plant disease detection. It’s a clean, well-labeled dataset with thousands of leaf images from different plants, both healthy and diseased. When you explore the dataset, you’ll see class names like:
+the plantvillage-dataset is a great dataset to get hands-on with real image data, especially if you're learning computer vision or working on plant disease detection. It’s a clean, well-labeled dataset with thousands of leaf images from different plants, both healthy and diseased. When you explore the dataset, you’ll see class names like:
 
 Apple___Apple_scab
 
