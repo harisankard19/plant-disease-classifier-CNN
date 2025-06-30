@@ -15,3 +15,9 @@ Blueberry___healthy
 Cherry_(including_sour)___Powdery_mildew
 
 Each image is categorized by plant type and condition, so it's perfect for training a model to recognize different diseases. It's especially useful if you’re trying out CNNs and want something practical and structured to work with.
+
+NOTES:
+
+The trained model file has not been included for it being >500mb in size
+
+The dataset maybe downloaded onto the notebook using :  !kaggle datasets download -d abdallahalidev/plantvillage-dataset   provided you have saved a kaggle.json file prior
